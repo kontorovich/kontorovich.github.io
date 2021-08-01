@@ -1,7 +1,7 @@
 ## Publications
 ### Selected  
 
-### Jornals
+### Journals
 
 ### Conferences
 
