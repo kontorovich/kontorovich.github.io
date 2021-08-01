@@ -2,4 +2,4 @@ Just Testing the math supports
 $$a^2 = \sum_{i=1}^{n} b_i$$
 
 
-[<-- Main math page](/wiki/math.md)
+[<-- Main math page](wiki/math.md)
